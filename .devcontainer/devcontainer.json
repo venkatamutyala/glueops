@@ -46,7 +46,7 @@
 	"customizations": {
 		"codespaces": {
 		  "repositories": {
-			"GlueOps/*": {
+			"venkatamutyala/*": {
 				"permissions": "write-all"
 			}
 		  }
